@@ -1,0 +1,10 @@
+opencv-python==3.7.4
+jupyter
+glob
+os
+sklearn
+nltk
+pickle
+numpy
+torch
+sagemaker.pytorch
